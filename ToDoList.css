@@ -11,7 +11,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 .container {
-    background: white;
+    background: rgb(152, 127, 127);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -35,9 +35,10 @@ form {
     display: flex;
     flex-direction: column;
     gap: 6px;
-    color: #444;
-    font-size: 14px;
+    color: #000000;
+    font-size: 16px;
     flex: 0 1 150px;
+    
 }
 
 .task-field {
